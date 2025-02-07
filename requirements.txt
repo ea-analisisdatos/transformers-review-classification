@@ -1,0 +1,9 @@
+transformers
+datasets
+kaggle
+accelerate
+torch
+gradio
+pandas
+tensorflow
+scikit-learn
